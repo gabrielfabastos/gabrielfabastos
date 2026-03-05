@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Oi! Eu sou o Gabriel Bastos
 
-<!--
-**gabrielfabastos/gabrielfabastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação | UX/UI Designer  
 
-Here are some ideas to get you started:
+Tenho mais de 5 anos de experiência criando interfaces digitais e atualmente estou em transição para a área de desenvolvimento. Minha experiência com design me ajudou a desenvolver um olhar forte para usabilidade, experiência do usuário e atenção aos detalhes na construção de interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado em **Design Gráfico pela UNIP**, pós-graduado em **UX Design and Beyond pela PUCRS**, fiz **Técnico em Informática** e atualmente estou cursando **Banco de Dados na FATEC**.  
+
+🚀 Gosto de aprender, explorar novas tecnologias e transformar ideias em produtos digitais funcionais e intuitivos.
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Front-end:** HTML, CSS, JavaScript  
+- **Design de Interfaces:** Figma  
+- **Design Gráfico:** Illustrator, Photoshop  
+- **Estudos atuais:** Java e Banco de Dados  
+- **Conceitos:** UX/UI, Usabilidade, Design Centrado no Usuário
+
+### 📚 Atualmente estudando
+
+- Java
+- Modelagem e Banco de Dados
