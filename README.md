@@ -2,11 +2,11 @@
 
 💻 Desenvolvedor em formação | UX/UI Designer  
 
-Tenho mais de 5 anos de experiência criando interfaces digitais e atualmente estou em transição para a área de desenvolvimento. Minha experiência com design me ajudou a desenvolver um olhar forte para usabilidade, experiência do usuário e atenção aos detalhes na construção de interfaces.
-
-Sou formado em **Design Gráfico pela UNIP**, pós-graduado em **UX Design and Beyond pela PUCRS**, fiz **Técnico em Informática** e atualmente estou cursando **Banco de Dados na FATEC**.  
+Tenho mais de 5 anos de experiência criando interfaces digitais e atualmente estou em transição para a área de desenvolvimento.  
 
 🚀 Gosto de aprender, explorar novas tecnologias e transformar ideias em produtos digitais funcionais e intuitivos.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigabrielfabastos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Tecnologias e Ferramentas
 
